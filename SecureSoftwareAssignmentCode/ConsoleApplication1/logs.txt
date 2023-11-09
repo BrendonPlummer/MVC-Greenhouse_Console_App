@@ -1,0 +1,28 @@
+
+Log: 
+temp = 25[C]
+Dewpoint = 11[C]
+Humidity = 92[%]
+FanState = 1[C]
+
+K.&{aK5$,1a|astK$61.(/5a|appK	4,(%(58a|axsdK /5 5$a|apnKK
+Log: 
+temp = 25[C]
+Dewpoint = 11[C]
+Humidity = 92[%]
+FanState = 1[ON/OFF]
+
+
+Log: 
+temp = 18[C]
+Dewpoint = 12[C]
+Humidity = 95[%]
+FanState = 1[ON/OFF]
+
+
+Log: 
+temp = 25[C]
+Dewpoint = 11[C]
+Humidity = 92[%]
+FanState = 1[ON/OFF]
+
